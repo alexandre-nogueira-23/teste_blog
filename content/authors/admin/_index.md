@@ -1,17 +1,17 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: Olá! Sou o Alexandre, um Sociólogo, no término do Doutorado, curioso e também pesquisador sobre o mundo organizacional e outras formas de ação coletiva; um apaixonado por dados e métodos de pesquisa, quali e quanti. Nos meus trabalhos tenho usado de métodos como “entrevistas em profundidade”, Observação Participante, Estudo de Trajetória/Histórias de Vida, assim como de “análises estatísticas”, web scraping e Análise Automatizada de Conteúdo. Sou também um praticante assíduo do método de Análise de Redes Sociais - coleta de dados relacionais, elaboração de questionários sociométricos, análise e modelagem de redes organizacionais.
+
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Doutorando em Sociologia
+    institution: Universidade Federal de Minas Gerais
+    year: 2021
+  - course: Mestrado em Sociologia
+    institution: Universidade Federal de Minas Gerais
+    year: 2016
+  - course: Graduação em Ciências Sociais
+    institution: Universidade Federal de Minas Gerais
+    year: 2014
 email: ""
 highlight_name: false
 interests:
@@ -19,9 +19,9 @@ interests:
 - Computational Linguistics
 - Information Retrieval
 organizations:
-- name: Stanford University
+- name: Secretaria de Estado de Desenvolvimento Social-MG
   url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+role: Cientista de Dados
 social:
 - icon: envelope
   icon_pack: fas
@@ -42,11 +42,8 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/
 superuser: true
-title: Nelson Bighetti
+title: Alexandre Pichilinga
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Olá! Sou o Alexandre, um Sociólogo, no término do Doutorado, curioso e também pesquisador sobre o mundo organizacional e outras formas de ação coletiva; um apaixonado por dados e métodos de pesquisa, quali e quanti. Nos meus trabalhos  tenho usado de métodos como “entrevistas em profundidade”, Observação Participante, Estudo de Trajetória/Histórias de Vida, assim como de “análises estatísticas”, web scraping e Análise Automatizada de Conteúdo. Sou também um praticante assíduo do método de Análise de Redes Sociais - coleta de dados relacionais, elaboração de questionários sociométricos, análise e modelagem de redes organizacionais.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
+title: Habilidades
 subtitle:
 
 # Showcase personal skills or business features.
@@ -23,11 +23,11 @@ feature:
 - description: 100%
   icon: chart-line
   icon_pack: fas
-  name: Statistics
+  name: Estatística
 - description: 10%
   icon: camera-retro
   icon_pack: fas
-  name: Photography
+  name: Análise de Redes
 
 # Uncomment to use emoji icons.
 #- icon = ":smile:"
