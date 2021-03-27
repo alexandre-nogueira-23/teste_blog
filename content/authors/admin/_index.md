@@ -1,5 +1,5 @@
 ---
-bio: Olá! Sou o Alexandre, Sociólogo, no término do Doutorado, curioso e também pesquisador sobre o mundo organizacional e outras formas de ação coletiva; um apaixonado por dados e métodos de pesquisa, quali e quanti. Nos meus trabalhos tenho usado de métodos como “entrevistas em profundidade”, Observação Participante, Estudo de Trajetória/Histórias de Vida, assim como de “análises estatísticas”, web scraping e Análise Automatizada de Conteúdo. Sou também um praticante assíduo do método de Análise de Redes Sociais - coleta de dados relacionais, elaboração de questionários sociométricos, análise e modelagem de redes organizacionais.
+bio: Sociólogo, curioso e pesquisador dos fenômenos de ação coletiva; um apaixonado por dados e métodos de pesquisa, quali e quanti. Nos meus trabalhos tenho usado de métodos como entrevistas em profundidade, Grupos Focais, Observação Participante, Estudo de Trajetória/Histórias de Vida, assim como de análises estatísticas, web scraping e Análise Automatizada de Conteúdo. Sou também um assíduo usuário de R e praticante dedicado do método de Análise de Redes Sociais - coleta de dados relacionais, elaboração de questionários sociométricos, análise e modelagem de redes organizacionais. Ah, nas horas vagas... palmeirense e aficionado por plantas ;)
 
 education:
   courses:
@@ -15,9 +15,11 @@ education:
 email: "alexandresilvanogueira@hotmail.com"
 highlight_name: false
 interests:
-- Coleta, manipulação e Análise de Dados
+- Coleta, wrangling, vizualização e análise de Dados
 - Análise de Redes Sociais
-- Ação coletiva e comportamento organizacional
+- Ação coletiva, liderança e comportamento organizacional
+- Ativismo, movimentos sociais e conflito político
+- Desigualdade social e pobreza
 organizations:
 - name: Secretaria de Estado de Desenvolvimento Social-MG
   url: https://sites.google.com/ods-minas.page/home/ods
@@ -40,6 +42,6 @@ social:
 superuser: true
 title: Alexandre Pichilinga
 ---
-Olá! Sou o Alexandre, Sociólogo, no término do Doutorado, curioso e também pesquisador sobre o mundo organizacional e outras formas de ação coletiva; um apaixonado por dados e métodos de pesquisa, quali e quanti. Nos meus trabalhos  tenho usado de métodos como “entrevistas em profundidade”, Observação Participante, Estudo de Trajetória/Histórias de Vida, assim como de “análises estatísticas”, web scraping e Análise Automatizada de Conteúdo. Sou também um praticante assíduo do método de Análise de Redes Sociais - coleta de dados relacionais, elaboração de questionários sociométricos, análise e modelagem de redes organizacionais.
+Sociólogo, curioso e pesquisador dos fenômenos de ação coletiva; um apaixonado por dados e métodos de pesquisa, quali e quanti. Nos meus trabalhos tenho usado de métodos como entrevistas em profundidade, Grupos Focais, Observação Participante, Estudo de Trajetória/Histórias de Vida, assim como de análises estatísticas, web scraping e Análise Automatizada de Conteúdo. Sou também um assíduo usuário de R e praticante dedicado do método de Análise de Redes Sociais - coleta de dados relacionais, elaboração de questionários sociométricos, análise e modelagem de redes organizacionais. Ah, nas horas vagas... palmeirense e aficionado por plantas ;)
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
