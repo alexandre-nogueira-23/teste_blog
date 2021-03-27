@@ -20,18 +20,18 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: alexandresilvanogueira@hotmail.com
+phone: 38 99173 2196
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  street: CAMG (Cidade Administrativa Presidente Tancredo Neves)
+  city: Belo Horizonte
+  region: MG
+  postcode: '31630 900'
+  country: Brasil
+  country_code: BR
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
+  latitude: '-19.7838'
+  longitude: '-43.9521'
 directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 office_hours:
   - 'Monday 10:00 to 13:00'

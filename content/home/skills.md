@@ -20,14 +20,14 @@ feature:
   icon: r-project
   icon_pack: fab
   name: R
-- description: 100%
+- description: 90%
   icon: chart-line
   icon_pack: fas
   name: Estatística
-- description: 10%
-  icon: camera-retro
+- description: 100%
+  icon: project-diagram
   icon_pack: fas
-  name: Análise de Redes
+  name: Análise de Redes Sociais
 
 # Uncomment to use emoji icons.
 #- icon = ":smile:"

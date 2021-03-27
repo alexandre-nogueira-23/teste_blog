@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Experiência
 subtitle:
 
 # Date format for experience
@@ -22,24 +22,24 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Analista de Dados
+    company: SEDESE/MG
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
+    location: Belo Horizonte
+    date_start: '2020-01-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Análise de dados
+        * Diagnóstico e monitoramente de políticas públicas
+        * Gráficos, Mapas e Dashboards
         
-  - title: Professor
-    company: University X
-    company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+#  - title: Professor
+#    company: University X
+#    company_url: ''
+#    location: California
+#    date_start: '2016-01-01'
+#    date_end: '2016-12-31'
+#    description: Taught electronic engineering and researched semiconductor physics.
 ---
