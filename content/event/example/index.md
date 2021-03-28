@@ -28,7 +28,7 @@ publishDate: "2021-01-01T00:00:00Z"
 #slides: example
 summary: IV Jornada de Pensamento Político Brasileiro - GT III Democracia, Instituições e Sociedade no Pensamento Brasileiro
 tags: []
-title: Ideologias e a identidade política da Nova Direita brasileira
+title: Apresentação - Ideologias e a identidade política da Nova Direita brasileira
 url_code: ""
 url_pdf: ""
 url_slides: ""
