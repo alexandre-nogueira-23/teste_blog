@@ -16,27 +16,27 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 100%
+- description: " "
   icon: r-project
   icon_pack: fab
   name: R
-- description: 90%
+- description: " "
   icon: chart-line
   icon_pack: fas
   name: Estatística
-- description: 100%
+- description: " "
   icon: project-diagram
   icon_pack: fas
   name: Análise de Redes Sociais
-- description: 90%
+- description: ""
   icon: feather-alt
   icon_pack: fas
   name: Latex
-- description: 100%
+- description: ""
   icon: spider
   icon_pack: fas
   name: Pajek
-- description: 90%
+- description: ""
   icon: markdown
   icon_pack: fab
   name: Rmarkdown

@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 70
 
-title: 'Apresentações passadas e futuras'
+title: 'Apresentações em eventos'
 subtitle:
 
 content:

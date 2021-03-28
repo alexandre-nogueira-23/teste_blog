@@ -27,8 +27,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Network Analysis
-    tag: Network Analysis
+  - name: Dashboard
+    tag: Dashboard
   - name: Other
     tag: Demo
 

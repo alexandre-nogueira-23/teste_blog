@@ -19,8 +19,8 @@ image:
 links:
 - name: Custom Link
   url: http://example.org
-projects:
-- internal-project
+#projects:
+#- internal-project
 publication: In *Source Themes Conference*
 publication_short: In *STC*
 publication_types:
@@ -51,3 +51,4 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
 {{% /callout %}}
 
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+

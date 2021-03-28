@@ -12,7 +12,7 @@ links:
 #slides: example
 summary: Construção de Dashboard que resuma a situação dos cientistas sociais e sociólogos no mercado de trabalho
 tags:
-- Network Analysis
+- Dashboard
 title: Dashboard - o Sociólogo e o mercado de trabalho
 url_code: ""
 url_pdf: ""

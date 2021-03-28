@@ -2,6 +2,6 @@
 header:
   caption: ""
   image: ""
-title: Apresentações passadas e futuras
+title: Apresentações em eventos
 view: 2
 ---

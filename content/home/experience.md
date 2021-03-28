@@ -31,9 +31,9 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Análise de dados
-        * Diagnóstico e monitoramente de políticas públicas
-        * Gráficos, Mapas e Dashboards
+        * Manipulação e análise de bancos de dados - Cadúnico, Censo, PNAD, Rais, Censo Escolar, Censo SUAS, Munic, etc.
+        * Diagnóstico e monitoramento de políticas públicas
+        * Produção de Relatórios, Gráficos, Mapas e Dashboards
         
 #  - title: Professor
 #    company: University X
