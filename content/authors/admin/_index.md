@@ -40,7 +40,7 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/alexandre-nogueira-b7a152a2/
 superuser: true
-title: Alexandre Pichilinga
+title: Alexandre S. Nogueira
 ---
 Sociólogo, curioso e pesquisador dos fenômenos de ação coletiva; um apaixonado por dados e métodos de pesquisa, quali e quanti. Nos meus trabalhos tenho usado de métodos como entrevistas em profundidade, Grupos Focais, Observação Participante, Estudo de Trajetória/Histórias de Vida, assim como de análises estatísticas, web scraping e Análise Automatizada de Conteúdo. Sou também um assíduo usuário de R e praticante dedicado do método de Análise de Redes Sociais - coleta de dados relacionais, elaboração de questionários sociométricos, análise e modelagem de redes organizacionais. Ah, nas horas vagas... palmeirense e aficionado por plantas ;)
 
